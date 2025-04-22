@@ -45,7 +45,7 @@
 </head>
 
 <body>
-    <h1>Daftar Konten Kreator</h1>
+    <h1>Daftar Konten</h1>
     <table>
         <thead>
             <tr>
